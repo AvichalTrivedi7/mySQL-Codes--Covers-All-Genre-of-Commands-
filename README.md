@@ -40,8 +40,6 @@ This repository contains a collection of **MySQL scripts** and **database manage
 - **Triggers for Automated Data Handling** (`CREATE TRIGGER`)  
 - **Using Views for Data Abstraction** (`CREATE VIEW`)  
 
-## NOTE :- **All the mySQL+Python (using connector) files are transferred to "Python-programmes--11th-and-12th-Grade-" Repository**
-
 ## 🎯 Purpose  
 This collection is ideal for:  
 ✅ **Students & beginners** looking to strengthen MySQL skills  
@@ -49,3 +47,5 @@ This collection is ideal for:
 ✅ **Anyone preparing for SQL-based problem-solving & interviews**  
 
 🚀 **Happy Querying!**  
+
+## NOTE :- **All the mySQL+Python (using connector) files are transferred to "Python-programmes--11th-and-12th-Grade-" Repository**
